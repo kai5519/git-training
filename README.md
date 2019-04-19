@@ -3,6 +3,7 @@ git cmd training and memo
 
 
 ## usually command
+- git log
 - git config --global user.name "xxxx"
 - git config --global user.email "xxxx@gmail.com"
 - git remote add urlname https://github.com/xxxx/xxxx.git ​
